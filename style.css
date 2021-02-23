@@ -1,0 +1,162 @@
+    ul.ul1 {
+        background-color: rgb(22, 20, 20);
+        margin: -7px;
+        padding: 15px;
+        text-align: center;
+    }
+    
+    li.li1 {
+        display: inline;
+        text-align: center;
+        padding-right: 60px;
+    }
+    
+    li.li1>a,
+    li.li1>a>i {
+        color: white;
+        text-align: center;
+        opacity: .8;
+    }
+    
+    li.li1>a:hover,
+    li.li1>a>i:hover {
+        opacity: 1;
+    }
+    
+    li.li1>a {
+        text-decoration: none;
+    }
+    
+    .link {
+        margin: 7px -7px 0 -7px;
+        padding: 1px;
+        text-align: center;
+        background-color: rgb(0, 119, 255);
+    }
+    
+    .link>p>a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .link>p>:hover {
+        color: white;
+        text-decoration: underline;
+    }
+    
+    .gray {
+        background-color: rgb(245, 244, 244);
+        padding: 1px;
+        margin: 0 -7px 0 -7px;
+        text-align: center;
+    }
+    
+    .gray>p>a {
+        text-decoration: none;
+        color: rgb(0, 119, 255);
+    }
+    
+    .gray>p {
+        color: gray;
+    }
+    
+    .cntr {
+        text-align: center;
+        margin: 0 -7px 0 -7px;
+    }
+    
+    .cntr>p>a,
+    .cntr>h1>a {
+        text-decoration: none;
+        color: black;
+    }
+    
+    .cntr>h1 {
+        font-size: 60px;
+        color: black;
+    }
+    
+    p.pp {
+        font-size: 30px;
+        margin: -40px;
+    }
+    
+    p.p1 {
+        margin-top: 50px;
+    }
+    
+    p.p2 {
+        margin-top: -10px;
+    }
+    
+    .cntr>p>a.a1,
+    .cntr>p>a.a2 {
+        color: rgb(0, 119, 255) !important;
+        font-size: 25px;
+        padding-right: 30px;
+    }
+    
+    .div>a {
+        padding: 4px;
+    }
+    
+    .desc {
+        padding: 0 12% 0 12%;
+    }
+    
+    .desc {
+        color: gray;
+        font-size: 12px;
+    }
+    
+    .content {
+        background-color: rgb(240, 236, 236);
+        margin: 0 -7px 0 -7px;
+        padding-top: 20px;
+    }
+    
+    .lists {
+        border-top: 1px solid gray;
+        border-bottom: 1px solid gray;
+    }
+    
+    .listss {
+        display: inline;
+    }
+    
+    .listss>ul {
+        list-style: none;
+    }
+    
+    .listss>ul>li>a {
+        text-decoration: none;
+        color: gray;
+        font-size: 16px;
+    }
+    
+    .listss>ul>li {
+        color: black;
+        font-weight: bold;
+        font-size: 18px;
+    }
+    
+    .listss>ul>li>a:hover {
+        text-decoration: underline;
+    }
+    
+    .foot1 {
+        padding-right: 80px;
+        color: gray;
+    }
+    
+    .foota {
+        padding: 0 5px 0 5px;
+        text-decoration: none;
+        color: gray;
+    }
+    
+    .us {
+        padding-left: 200px;
+        text-decoration: none;
+        color: gray;
+    }
